@@ -7,3 +7,7 @@ A simple web-based Library Management System built with Django and integrated wi
 - Automatically calculate rent fees on book returns.
 - Import book data using the public [Frappe Library API]
 No login system is implemented to keep the app focused and simple as per instructions.
+
+**Note** :- 
+I haven’t used a database in this project, so the data is not being stored permanently. Due to some issues related to database setup, 
+I’ve used local storage as a temporary solution for handling data.
